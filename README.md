@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ishu121992
+- 👋 Hi, I’m Eeshan
 - 👀 I’m interested in Machine Learning and AI, especially in speech, language, and semantics. 
 - 🌱 I’m currently learning Data Science tools and Pursuing my Masters in Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects and Kaggle Competitions
